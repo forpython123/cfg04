@@ -3,4 +3,4 @@ test2 file
 there is a branch with name dev01, also another branch named dev02  b dev04
 
 change003	debug done 3rd
-change004	dev ongoing 3rd
+change004	dev ongoing 3rd		from_dev02
